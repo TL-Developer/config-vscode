@@ -1,7 +1,7 @@
 # config-vscode
 
 settings
-
+```
 {
     "workbench.colorTheme": "Dracula",
     "editor.tabSize": 2,
@@ -47,3 +47,4 @@ settings
     "sync.forceDownload": true,
     "sync.forceUpload": true
 }
+```
